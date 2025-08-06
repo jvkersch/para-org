@@ -1,0 +1,10 @@
+#+title: Behavioral quantification
+
+* Journals
+
+- Nature neuropsychopharmacology (IF 7.6): has similar papers from 2020, probably need to show something really new.
+- eLife (IF 6): has switched to accepting everything with published peer reviews. Reddit discussion mentions potential for cronyism. eLife doesn't have an impact factor anymore.
+- PLOS computational biology (IF 3.8): respectable
+- Physiology & behavior (IF 2.4)
+- Cell Reports (IF 7.5, publication fee $5000, 200 days to publication)
+- Frontiers in Neuroinformatics (2.5, EUR 3500)
