@@ -1,0 +1,15 @@
+#+title: Educational quality issues
+
+Things that popped up in meetings with Kristien, but that I have not been able to give a place yet.
+
+* Scheduling ("roostering")
+
+Scheduling is done manually with the help of an Excel file. Schedule changes are hard to make, and the Excel output has very little features (e.g. not able to filter on classroom, year, etc).
+
+Ghent uses TimeEdit, but adapting this to GUGC is not a priority for them.
+
+Kristien mentioned using an Outlook calendar instead.
+
+* Korean communication
+
+Need to maintain the principle that official communication with students should only happen in English.
