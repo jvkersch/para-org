@@ -1,0 +1,13 @@
+#+title: Faculty Apartment
+
+* Washing machine
+
+Four compartments (left to right, top to bottom):
+
+- 액체세제 (liquid detergent)
+- 예비세탁 (prewash)
+- 본세탁 (main wash)
+- 섬유연 (fabric softener)
+
+
+[[file:images/20250809-181555_screenshot.png]]
