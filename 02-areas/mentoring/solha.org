@@ -1,0 +1,15 @@
+#+title: Mentoring (Solha Kang)
+
+* Action items
+
+* Meeting notes
+
+** 2025-08-08
+
+First meeting of the semester to get back on track. Was hoping to see lots of research effort and independent work, but this has not happened -- very much same mood as last year. Will need to set a big research goal for Solha to explore over the course of this year.
+
+Over the summer, has worked on:
+
+- Competition: made a failing entry because of Docker issues (unfamiliarity with Docker coupled with lack of time due to family commitment). Understandable that this happened, valuable lesson for the future.
+- MICCAI workshop paper: segmenting breast cancer tumors by feeding SAM2 images upwards, downwards, or middle-out.
+
